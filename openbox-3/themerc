@@ -1,0 +1,78 @@
+#-------------------------------------------------------------------------------
+# border
+#-------------------------------------------------------------------------------
+border.color                        : #001122
+border.width                        : 1
+
+#-------------------------------------------------------------------------------
+# padding
+#-------------------------------------------------------------------------------
+padding.height                      : 6
+padding.width                       : 6
+window.client.padding.height        : 0
+window.client.padding.width         : 0
+window.handle.width                 : 5
+
+#-------------------------------------------------------------------------------
+# menu title
+#-------------------------------------------------------------------------------
+menu.title.bg                       : raised solid
+menu.title.bg.color                 : #556677
+menu.title.bg.highlight             : 128
+menu.title.bg.shadow                : 0
+menu.title.text.color               : #eeeeee
+menu.title.text.font                : shadow=y:shadowoffset=1:shadowtint=75
+
+#-------------------------------------------------------------------------------
+# menu items
+#-------------------------------------------------------------------------------
+menu.items.active.bg                : flat solid
+menu.items.active.bg.color          : #556677
+menu.items.active.text.color        : #eeeeee
+menu.items.bg                       : flat solid
+menu.items.bg.color                 : #334455
+menu.items.disabled.text.color      : #667788
+menu.items.font                     : shadow=y:shadowoffset=1:shadowtint=75
+menu.items.text.color               : #99aabb
+
+#-------------------------------------------------------------------------------
+# menu separator
+#-------------------------------------------------------------------------------
+menu.separator.color                : #001122
+menu.separator.padding.height       : 0
+menu.separator.padding.width        : 0
+
+#-------------------------------------------------------------------------------
+# window inactive
+#-------------------------------------------------------------------------------
+window.*.button.*.bg                : parentrelative
+window.*.button.*.hover.image.color : #eeeeee
+window.*.button.*.image.color       : #001122
+window.*.grip.bg                    : parentrelative
+window.*.handle.bg                  : raised solid
+window.*.handle.bg.color            : #334455
+window.*.handle.bg.highlight        : 64
+window.*.handle.bg.shadow           : 0
+window.*.label.bg                   : parentrelative
+window.*.label.text.color           : #99aabb
+window.*.label.text.font            : shadow=y:shadowoffset=1:shadowtint=75
+window.*.title.bg                   : raised solid
+window.*.title.bg.color             : #334455
+window.*.title.bg.highlight         : 64
+window.*.title.bg.shadow            : 0
+
+#-------------------------------------------------------------------------------
+# window active
+#-------------------------------------------------------------------------------
+window.active.grip.bg               : parentrelative
+window.active.handle.bg             : raised solid
+window.active.handle.bg.color       : #556677
+window.active.handle.bg.highlight   : 128
+window.active.handle.bg.shadow      : 0
+window.active.label.bg              : parentrelative
+window.active.label.text.color      : #eeeeee
+window.active.label.text.font       : shadow=y:shadowoffset=1:shadowtint=75
+window.active.title.bg              : raised solid
+window.active.title.bg.color        : #556677
+window.active.title.bg.highlight    : 128
+window.active.title.bg.shadow       : 0
